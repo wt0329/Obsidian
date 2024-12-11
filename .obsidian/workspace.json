@@ -154,6 +154,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
       "switcher:퀵 스위처 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": false,
@@ -164,11 +165,12 @@
   },
   "active": "53b52c5dc4b244ae",
   "lastOpenFiles": [
-    "무제 파일.canvas",
+    "Files/Pasted image 20241210155003.png",
     "Node.js/설치 및 구성.md",
-    "Pasted image 20241210161231.png",
-    "Pasted image 20241210161011.png",
-    "Pasted image 20241210155003.png",
+    "Files",
+    "무제 파일.canvas",
+    "Files/Pasted image 20241210161231.png",
+    "Files/Pasted image 20241210161011.png",
     "Welcome.md",
     "Node.js"
   ]
