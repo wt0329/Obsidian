@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "6048ec19d2dc05b7",
+    "type": "split",
+    "children": [
+      {
+        "id": "bda9a40f14509480",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "53b52c5dc4b244ae",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Node.js/설치 및 구성.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "설치 및 구성"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "32bb4d8bb551bb97",
+    "type": "split",
+    "children": [
+      {
+        "id": "3a23fba991cacfb2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1f0fcfa98a4a81cf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "c9761335452968f2",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "b622f35a689d098f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "005687253b71aba9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f4ef9315e907a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1123c98d6c0e3f38",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Node.js/설치 및 구성.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "설치 및 구성의 백링크"
+            }
+          },
+          {
+            "id": "8269303faf46d8be",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Node.js/설치 및 구성.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "설치 및 구성의 나가는 링크"
+            }
+          },
+          {
+            "id": "6c37ca2680aa4eed",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a4f186e53e190f61",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Node.js/설치 및 구성.md"
+              },
+              "icon": "lucide-list",
+              "title": "설치 및 구성 개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "53b52c5dc4b244ae",
+  "lastOpenFiles": [
+    "무제 파일.canvas",
+    "Node.js/설치 및 구성.md",
+    "Pasted image 20241210161231.png",
+    "Pasted image 20241210161011.png",
+    "Pasted image 20241210155003.png",
+    "Welcome.md",
+    "Node.js"
+  ]
+}
