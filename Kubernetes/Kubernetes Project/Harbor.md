@@ -25,6 +25,7 @@
 ## ✅ Harbor를 위한 인증서 생성
 
 **📍 인증 기관 인증서 생성**
+
   <font color="#000000">1. </font>CA 인증서 개인 키 생성
 ```css
 openssl genrsa -out ca.key 4096
@@ -36,6 +37,7 @@ openssl req -x509 -new -nodes -sha512 -days 3650 -key ca.key -out ca.crt
 ```
 
 **📍 서버 인증서 생성**
+
   <font color="#000000">1. </font>개인 키 생성
 ```css
 openssl genrsa -out yourdomain.com.key 4096
