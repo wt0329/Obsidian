@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes/Kubernetes Project/Harbor.md",
+                "file": "Kubernetes/Kubernetes Project/Rancher Docker Install.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Harbor"
+              "title": "Rancher Docker Install"
             }
           }
         ],
@@ -206,14 +206,16 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "02246523ba1e744e",
+  "active": "1f0fcfa98a4a81cf",
   "lastOpenFiles": [
+    "Files/Untitled 1.png",
+    "Files/Untitled.png",
+    "Kubernetes/Kubernetes Project/Harbor.md",
+    "Kubernetes/Kubernetes Project/Rancher Docker Install.md",
     "Kubernetes/Kubernetes Project/Nexus.md",
     "Node.js/설치 및 구성.md",
-    "Kubernetes/Kubernetes Project/Harbor.md",
     "Kubernetes/Kubernetes Project/Prometheus Kubernetes Helm Install.md",
     "Kubernetes/Kubernetes Project/Grafana Kubernetes Helm Install.md",
-    "Kubernetes/Kubernetes Project/Rancher Docker Install.md",
     "무제 폴더",
     "Kubernetes/Kubernetes Project",
     "Kubernetes",
